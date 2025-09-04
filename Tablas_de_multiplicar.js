@@ -4,5 +4,4 @@ for (let base = 1; base <= 10; base++) {
     for (let indice = 1; indice <= 10; indice++) {
         console.log(`${base} x ${indice} = ${base * indice}`);
     }  
-    // console.log('-------------------');
 }
